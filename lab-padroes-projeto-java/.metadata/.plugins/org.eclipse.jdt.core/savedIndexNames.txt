@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\vanes\git\projeto-pratico-lab-padroes-de-projeto\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1033268726.index
+2410366565.index
